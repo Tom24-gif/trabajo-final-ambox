@@ -1,0 +1,22 @@
+En este trabajo analizamos una encuesta sobre el bienestar de los ciudadanos
+de diferentes paises y como eran sus habitos cotidianos.
+
+Esta base de datos en formato CSV no presentaba datos nulos ni duplicados, facilitando el
+analisis de estos datos. Analizamos las variables que tenian una correlacion entre si, que 
+eran 'age'(edad), 'hours_sleep'(horas de sueño), 'exercise_days'(dias de ejercicio),
+y 'happiness_level'(nivel de felicidad) y la relaciones que tenian estas variables. luego comparamos 
+la cantidad de habitantes que habian votado en esta encuesta de cada pais, tenien en cuneta su genero,
+en Chile, Colombia, Peru, España, votaron mas mujeres, en Argentina hombres y en mexico votaron personas
+no binarias, analizamos la difencia que habia en los niveles de felicidad y estres entren los tres
+generos, siendo los hombres quienes tienen mayores niveles de estres, y las personas no binarias los que
+presentan mayores niveles de felicidad. Luego creamos unos indicadores sobre los malos habitos y potenciales
+riesgos en las personas, por ejemplo el habito de usar el telefono a la hora de dormir, muchas personas pasan
+mas timepo mirando las pantallas que durmiendo, lo que es un indicador de un potencial riesgo hacia su salud,
+tambien cramos un indicador del estres que provocan estas pantallas, que indica que el uso execivo del celular
+puede ser un potencial riesgo para nuestra salud, donde lo ideal seria un uso moderado de estos ultimos.
+los grupos de mayor rieso son los mas jovenes, de 27 años para atras, ya que son los que presentan mayores 
+cantidades de malos habitos, dormir poco, poco ejercicio, etc.
+
+En el Dashboard hecho en Power BI, grafique las diferentes relaciones que habian entre las variables 
+de CSV, integrando toda la informacion adquirida de los datos analizados, de forma de que sea mas 
+entendible visualmente, integrando todo lo visto en este trabajos.

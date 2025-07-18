@@ -1,0 +1,35 @@
+Objetivos:
+
+Analizar cómo distintos hábitos impactan el bienestar y nivel de felicidad de las personas encuestadas.
+
+----------------------------
+
+Consignas:
+
+    -Limpieza y análisis de nulos
+
+    -Análisis univariado y bivariado: edad, sueño, ejercicio, felicidad
+
+    -Comparaciones por género y país
+
+    -Crear indicadores derivados: ratio screen/sleep, hábitos saludables, etc.
+
+    -Visualizar relaciones entre variables (correlación, dispersión, barras)
+
+    -Detectar grupos en riesgo (alta pantalla + poco sueño + alto estrés)
+
+    -Dashboard integrador final (Power BI)
+
+----------------------------
+
+Entregables esperados por alumno:
+
+    -Código limpio y comentado (Python)
+
+    -Visualizaciones representativas
+
+    -Dashboard final (Power BI)
+
+    -Archivo CSV limpio y transformado
+
+    -Informe en txt explicando el análisis
